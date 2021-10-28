@@ -1,0 +1,28 @@
+.todo-item {
+    display: flex;
+    margin: auto;
+    border-bottom: 1px solid rgb(211, 211, 223); 
+    justify-content: space-between;
+}
+
+.todo-item button {
+    margin-left: auto;
+}
+
+.container {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.inputItems {
+    display: flex;
+    justify-content: space-between;
+}
+
+#input {
+    width: 74%;
+}
+
+#addBtn {
+    width: 24%;
+}
